@@ -303,4 +303,3 @@ dependencies:
       - whatthepatch==1.0.7
       - yapf==0.40.1
       - zipp==3.21.0
-prefix: /home/wu/miniconda3/envs/torch

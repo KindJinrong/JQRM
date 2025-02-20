@@ -1,6 +1,6 @@
 '''
 utf-8;
-author:Jinrong_Wu;
+author;
 We should use physics unit rad, m, .
 For a new 6-DOF parallel, .
 '''
